@@ -1,0 +1,12 @@
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\SteamBot.exe.config
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\SteamBot.exe
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\SteamBot.pdb
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\protobuf-net.dll
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\SteamKit2.dll
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\protobuf-net.pdb
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\protobuf-net.xml
+F:\V I S U A L\Progs\SteamBot\SteamBot\bin\Debug\SteamKit2.xml
+F:\V I S U A L\Progs\SteamBot\SteamBot\obj\Debug\SteamBot.csprojResolveAssemblyReference.cache
+F:\V I S U A L\Progs\SteamBot\SteamBot\obj\Debug\SteamBot.csproj.CoreCompileInputs.cache
+F:\V I S U A L\Progs\SteamBot\SteamBot\obj\Debug\SteamBot.exe
+F:\V I S U A L\Progs\SteamBot\SteamBot\obj\Debug\SteamBot.pdb

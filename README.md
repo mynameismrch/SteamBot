@@ -1,2 +1,0 @@
-# SteamBot
-Bot dlya steama
